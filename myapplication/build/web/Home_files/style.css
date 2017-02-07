@@ -1,0 +1,135 @@
+input {
+	color : #000000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	border: 1px;
+	border-color: Silver;
+	border-style: solid;	
+}
+div {
+	margin-top : 0px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+.px {
+	padding-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	margin-top : 2px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+.right {
+	color : #003C5E;
+	margin-top : 5px;
+	padding-bottom : 0px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: bold;
+}
+.right b {
+	color : #EF6D00;
+}
+.right a {
+	color : #003C5E;
+}
+.right a:hover {
+	color: #FF8C00;
+}
+.left {
+	color : #FFFFFF;
+	margin-top : 0px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: bold;
+}
+.left a {
+	color : #FFFFFF;
+}
+.left a:hover {
+	color : #000000;
+}
+p {
+	color : #000000;
+	margin-top : 5px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 0px;
+	font-size : 11px;
+	font-family : Verdana,Arial;
+}
+p a {
+	color : #294A7B;
+}
+p a:hover {
+	color : #000000;
+}
+.bot {
+	color : #000000;
+	margin-top : 5px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+}
+.bot a {
+	color : #000000;
+	text-decoration: none;
+}
+.bot a:hover {
+	color: #FF8C00;
+}
+.leftCopy { color : #FFFFFF; margin-top : 0px; padding-bottom : 0px; margin-bottom : 10px; margin-left : 10px; margin-right : 10px; font-size : 11px; font-family : Verdana, Arial, Helvetica, sans-serif; font-weight: bold; ; padding-right: 10px }
+.rightCopy { ; border: solid; border-width: 0px 1px 1px; border-color: black #666666 #666666}
+.pxCopy { padding-top : 0px; padding-bottom : 0px; padding-left : 5px; padding-right : 0px; margin-top : 2px; margin-bottom : 0px; margin-left : 0px; margin-right : 0px; ; font-family: tahoma, verdana, arial; font-size: 11px}
+.bas {
+	color : #000000;
+	margin-top : 5px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 5px;
+	font-size : 11px;
+	font-family : Verdana,Arial;
+	padding-left: 10px;
+}
+.mhr{
+	border: 1px solid Silver;
+	}
+.lhr{
+	border-bottom: 1px solid Silver;
+	border-right: 1px solid Silver;
+}
+.rhr{
+	border-bottom: 1px solid Silver;
+}
+.ohr{
+	border-right: 1px solid Silver;
+}.pxCopy2 {
+	padding-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	margin-top : 0px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	;
+	font-family: tahoma, verdana, arial;
+	font-size: 11px;
+	text-decoration: none;
+	color: #000000;
+}
